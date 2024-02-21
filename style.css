@@ -1,0 +1,11 @@
+body {
+  min-height: 100vh;
+  overflow: hidden;
+  margin: 0;
+  transition: 5s linear;
+}
+
+.todo-completed {
+  text-decoration: line-through;
+  color: grey;
+}
